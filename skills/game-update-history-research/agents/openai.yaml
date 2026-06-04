@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Update History Research"
+  short_description: "Research game version logs with public-source validation."
+  default_prompt: "Analyze two games version update histories from provided logs, validate system meanings with public sources, and build a decision-ready HTML report."
