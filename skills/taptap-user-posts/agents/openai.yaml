@@ -1,0 +1,4 @@
+interface:
+  display_name: "TapTap User Posts"
+  short_description: "Export public TapTap user posts and update logs."
+  default_prompt: "Export public TapTap user posts and build an update-log report."

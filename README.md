@@ -6,6 +6,8 @@ Game product research, live-ops analysis, version history studies, and reusable 
 
 - `skills/game-update-history-research/`  
   Codex Skill for analyzing game version update histories with public-source validation and producing decision-ready HTML reports.
+- `skills/taptap-user-posts/`  
+  Codex Skill for exporting public TapTap user posts with full topic text and update-log CSV/HTML outputs.
 
 ## Research Scope
 
