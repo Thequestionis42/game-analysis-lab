@@ -1,0 +1,8 @@
+SKILL.md
+templates/INPUT_TEMPLATE.md
+templates/REPORT_OUTLINE.md
+templates/PRE_DELIVERY_AUDIT.md
+examples/GO_GO_MUFFIN_PRODUCT_UNDERSTANDING_EXAMPLE.md
+examples/HTML_REPORT_STRUCTURE_EXAMPLE.md
+README.md
+manifest.txt

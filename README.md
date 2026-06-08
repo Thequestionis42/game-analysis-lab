@@ -8,6 +8,8 @@ Game product research, live-ops analysis, version history studies, and reusable 
   Codex Skill for analyzing game version update histories with public-source validation and producing decision-ready HTML reports.
 - `skills/taptap-user-posts/`  
   Codex Skill for exporting public TapTap user posts with full topic text and update-log CSV/HTML outputs.
+- `skills/rpg-single-product-longterm-strategy/`  
+  Codex Skill for deep single-product RPG-like long-term version strategy analysis, including product-structure calibration, strict mainline cadence, stage-version packages, progression lifecycle mapping, and evidence-grounded HTML reports.
 
 ## Research Scope
 
